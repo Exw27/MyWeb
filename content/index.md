@@ -4,9 +4,9 @@ date: YYYY-MM-DD
 layout: splash
 ---
 
-# 🌟 **Hi, I'm Your Name!** 🌟
+# 🌟 **Hi, I'm Exw!** 🌟
 
-Welcome to my corner of the internet! I'm a [Your Profession] who loves [a fun activity or interest]. This site is a blend of my work, my passions, and all the things that make me tick!
+Welcome to my corner of the internet! I'm a Computer scientist who loves tinkering with new technologies. This site is a blend of my work, my passions, and all the things that make me tick!
 
 ---
 
@@ -15,14 +15,13 @@ Welcome to my corner of the internet! I'm a [Your Profession] who loves [a fun a
 - [📜 Resume](./resume)
 - [💻 Projects](./projects)
 - [📝 Blog](./blog)
-- [📚 Publications](./publications)
 - [🌍 Connect with me](#connect)
 
 ---
 
 ## **About Me** 😎
 
-I'm passionate about [describe your main professional interest, e.g., software development, data science, etc.]. I specialize in [your skills/fields of expertise] and have worked on [mention cool projects, tools, or technologies]. When I'm not coding, you can find me [fun hobby, like "trying new coffee blends" or "playing video games"].
+I'm passionate about software development, data science, machine learning. I specialize in ai training and development and general IT. When I'm not coding, you can find me playing video games.
 
 - **Current City**: City 🌆
 - **Favorite Language**: Python 🐍
@@ -44,7 +43,7 @@ I'm passionate about [describe your main professional interest, e.g., software d
 
 - I once built a [cool thing you built] just because I could.
 - I’m strangely good at [random fun skill, like "solving Rubik’s cubes"].
-- I’ve traveled to [number] countries and counting! 🌍
+
 
 ---
 
@@ -52,7 +51,6 @@ I'm passionate about [describe your main professional interest, e.g., software d
 
 Feel free to reach out! Whether it’s for a project, collaboration, or just to say hi, I’m always open to new conversations.
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
 - [GitHub](https://github.com/yourusername)
 - [Email me!](mailto:youremail@example.com)
 
