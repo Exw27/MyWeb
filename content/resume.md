@@ -6,7 +6,7 @@ layout: resume
 
 # **Fel**
 
-[Your Email](mailto:) • [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/Exw27)
+[Your Email](mailto:) • [GitHub](https://github.com/Exw27)
 
 ---
 
