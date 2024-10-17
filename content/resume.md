@@ -6,7 +6,7 @@ layout: resume
 
 # **Fel**
 
-• [Your Email](exwin00@proton.me) • [GitHub](https://github.com/Exw27)
+• [Your Email](mailto:exwin00@proton.me) • [GitHub](https://github.com/Exw27)
 
 ---
 
