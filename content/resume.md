@@ -32,6 +32,7 @@ layout: resume
 ## Projects
 
 **Monument to the Future**  
+
 *This project develops an AI-powered speech recognition and dialogue system for an interactive monument designed as a futuristic AI astronaut. The system combines speech recognition, text-to-speech, and dialogue technologies to create engaging, natural user interactions. It transcribes user speech, generates context-aware responses, and delivers them as synthesized voice. The project highlights the system’s effective basic performance, while identifying areas for improvement in noisy environments, latency, and expressiveness, paving the way for future enhancements in robustness and scalability.*
 ---
 
