@@ -23,9 +23,9 @@ Welcome to my corner of the internet! I'm a Computer scientist who loves tinkeri
 
 I'm passionate about software development, data science, machine learning. I specialize in ai training and development and general IT. When I'm not coding, you can find me playing video games.
 
-- **Current City**: City 🌆
+- **Current City**: Ohrid 🌆
 - **Favorite Language**: Python 🐍
-- **Working On**: This Page
+- **Working On**: Something Secret
 
 ---
 
@@ -51,7 +51,7 @@ I'm passionate about software development, data science, machine learning. I spe
 
 Feel free to reach out! Whether it’s for a project, collaboration, or just to say hi, I’m always open to new conversations.
 
-- [GitHub](https://github.com/yourusername)
-- [Email me!](mailto:youremail@example.com)
+- [GitHub](https://github.com/Exw27)
+- [Email me!](mailto:exwin00@proton.me)
 
 ---
