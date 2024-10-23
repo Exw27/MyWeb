@@ -19,15 +19,15 @@ layout: resume
 ## Experience
 
 **IT Specialist**
-*Sefidanis Inc.**, Ohrid, Norht Macedonia
-*2 Years: 2022 - 2024*
+- *Sefidanis Inc.**, Ohrid, Norht Macedonia
+- *2 Years: 2022 - 2024*
 
 - AI Monument to the Future
 - Smart humanoid robot
 - Technologies used: Python, Tensorflow, etc.
 
 **Freelance IT Consultant**
-*5 Years: 2017 - Present*
+- *5 Years: 2017 - Present*
 
 ---
 
