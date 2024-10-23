@@ -19,7 +19,8 @@ layout: resume
 ## Experience
 
 **IT Specialist**
-- *Sefidanis Inc. * Ohrid, Norht Macedonia
+- *Sefidanis Inc* 
+- Ohrid, Norht Macedonia
 - *2 Years: 2022 - 2024*
 
 - AI Monument to the Future
